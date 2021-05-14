@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-int caesar (char sifra[], int p) {
+int caesar_encrypt(char sifra[], int p) {
   int i = 0;
 
   while (sifra[i] != '\0') {
