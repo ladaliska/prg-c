@@ -19,7 +19,7 @@ int caesar (char sifra[], int p) {
 }
 
 int main () {
-char sifra[50];
+char sifra[100];
 int p;
 
   printf("Zapiste vetu, kterou chcete zakodovat (POUZE VELKA PISMENA): ");
